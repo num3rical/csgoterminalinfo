@@ -8,6 +8,10 @@ This program currently runs in Linux and it probably won't work in Windows due t
 
 [python-a2s](https://github.com/Yepoleb/python-a2s)
 
+## Installation
+
+Just download the repository to wherever you want and `chmod +x` the `csgoterminalinfo.py` file, then run by doing `./csgoterminalinfo.py`.
+
 ## Configuration
 
 The script searches for the file `config.ini` in `.config/csgoterminalinfo`.
